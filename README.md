@@ -20,26 +20,26 @@ The company operates in multiple countries, but performance across markets varie
 ---
 ## Key Findings
 ### Revenue Growth Over Time
-![Global Growth Trend](images/growth_over_time.png)
+![Global Growth Trend](Images/growth_over_time.png)
 - Significant decline from 2020–2021 due to **pandemic effects**.
 - Strong rebound in 2023–2024 with **188% YoY growth in 2024**. 
  *Action:* Leverage the strong post-pandemic momentum by increasing marketing investment, strengthening local partnerships, ensuring inventory availability.
 
 ### Country Performance
-![Performance by Country](images/performance_by_country.png)
+![Performance by Country](Images/performance_by_country.png)
 - Top Markets: China, United States, Brazil
 - Mid-Tier: South Korea, France, UK, Germany, Spain
 - Underperforming: Japan, Australia, Belgium, Poland, Colombia, Austria
  *Action:* Prioritize High-Performing Markets by increasing marketing investments in China, the United States, and Brazil. Expand strategic partnerships and optimize logistics to improve market penetration and operational efficiency.
 
 ### Customer Behavior
-![Customer across Country](images/revenue_by_customer.png)
+![Customer across Country](Images/revenue_by_customer.png)
 - Majority are returning customers, indicating strong loyalty.
 - Dominant age group: 15–64.
  *Action:* Strengthen Customer Retention by developing loyalty programs and offering effective cross-selling and personalized product recommendations.
 
 ### Product & Brand Performance
-![Product and Brand Across COuntry](images/product_brand.png)
+![Product and Brand Across COuntry](Images/product_brand.png)
 - Top categories: Outerwear & Coat, Jeans, Sweaters, Suit & Sport Coats, Activewear
 - Leading brands: Diesel, Calvin Klein, 7 For All Mankind, True Religion, Carhartt
 - *Action:* Focus on High-Conversion Categories such as outerwear and jeans, and expand premium brand offerings in strong-performing markets.
